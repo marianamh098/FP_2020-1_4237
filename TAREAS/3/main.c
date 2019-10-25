@@ -10,3 +10,4 @@ int main(int argc, char *argu[]){
     printf("%.2f\n",n1/n2);
     return 0;
 }
+
